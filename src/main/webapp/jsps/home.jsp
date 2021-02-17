@@ -20,10 +20,10 @@
 		dasariTechnologies, 
 		hyderabad, near ICICI Bank,
 		india,
-		+91-8919085185,+91-8296242028
-		devopstrainingblr@gmail.com
+		+91-8919085185,
+		dasarimbabur@gmail.com
 		<br>
-		<a href="mailto:dasarimbabu@gmail.com">Mail to Mithun Technologies</a>
+		<a href="mailto:dasarimbabu@gmail.com">Mail to dasari Technologies</a>
 	</span>
 </div>
 <hr>
