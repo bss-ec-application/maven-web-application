@@ -4,12 +4,12 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>DIVYA Technologies- Home Page</title>
+<title>BAYYANI INDIRA - Home Page</title>
 <link href="images/mithunlogo.jpg" rel="icon">
 </head>
 </head>
 <body>
-<h1 align="center">Divya Technologies </h1>
+<h1 align="center">BAYYANI INDIRA </h1>
 <h1 align="center">training </h1>
 <hr>
 <div style="text-align: center;">
@@ -17,21 +17,21 @@
 		<img src="images/mithunlogo.jpg" alt="" width="100">
 	</span>
 	<span style="font-weight: bold;">
-		DIVYA Technologies, 
+		bayyani indira , 
 		hyderabad, LB nagar,
 		india,
 		+91-8919085185,
 		dasarimbabur@gmail.com
 		<br>
-		<a href="mailto:dasarimbabu@gmail.com">Mail to DIVYA Technologies</a>
+		<a href="mailto:dasarimbabu@gmail.com">Mail to bayyani indira </a>
 	</span>
 </div>
 <hr>
 	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
 <hr>
 <hr>
-<p align=center>DIVYA Technologies - Consultant,Training, Development Center.</p>
-<p align=center><small>Copyrights 2019 by <a href="http://DIVYA technologies.com/">DIVYA Technologies</a> </small></p>
+<p align=center>bayyani indira  - Consultant,Training, Development Center.</p>
+<p align=center><small>Copyrights 2019 by <a href="http://bayyani indira.com/">bayyani indira</a> </small></p>
 
 </body>
 </html>
