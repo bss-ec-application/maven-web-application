@@ -9,29 +9,29 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to DILIP Software Solutions.</h1>
-<h1 align="center">  Very Good Training center for DevOps with AWS in hyd and also for Job Assitance Job Support also...Teaching Real Time scnerios</h1>
+<h1 align="center"> Hi Divya Technologies </h1>
+<h1 align="center">training </h1>
 <hr>
 <div style="text-align: center;">
 	<span>
 		<img src="images/mithunlogo.jpg" alt="" width="100">
 	</span>
 	<span style="font-weight: bold;">
-		DILIPTechnologies, 
-		hyderabad, near ICICI Bank,
+		DIVYA Technologies, 
+		hyderabad, LB nagar,
 		india,
 		+91-8919085185,
 		dasarimbabur@gmail.com
 		<br>
-		<a href="mailto:dasarimbabu@gmail.com">Mail to DILIP Technologies</a>
+		<a href="mailto:dasarimbabu@gmail.com">Mail to DIVYA Technologies</a>
 	</span>
 </div>
 <hr>
 	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
 <hr>
 <hr>
-<p align=center>DILIPTechnologies - Consultant,Training, Development Center.</p>
-<p align=center><small>Copyrights 2019 by <a href="http://DILIPtechnologies.com/">DILIP Technologies</a> </small></p>
+<p align=center>DIVYA Technologies - Consultant,Training, Development Center.</p>
+<p align=center><small>Copyrights 2019 by <a href="http://DIVYA technologies.com/">DIVYA Technologies</a> </small></p>
 
 </body>
 </html>
