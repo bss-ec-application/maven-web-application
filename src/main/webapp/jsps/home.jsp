@@ -4,12 +4,12 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>DILIPTechnologies- Home Page</title>
+<title>DIVYA Technologies- Home Page</title>
 <link href="images/mithunlogo.jpg" rel="icon">
 </head>
 </head>
 <body>
-<h1 align="center"> Hi Divya Technologies </h1>
+<h1 align="center">Divya Technologies </h1>
 <h1 align="center">training </h1>
 <hr>
 <div style="text-align: center;">
