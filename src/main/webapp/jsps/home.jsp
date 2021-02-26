@@ -4,12 +4,12 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>BAYYANI INDIRA - Home Page</title>
+<title>Babu software solutions - Home Page</title>
 <link href="images/mithunlogo.jpg" rel="icon">
 </head>
 </head>
 <body>
-<h1 align="center">BAYYANI INDIRA </h1>
+<h1 align="center">Babu software solutions </h1>
 <h1 align="center">training </h1>
 <hr>
 <div style="text-align: center;">
@@ -17,8 +17,8 @@
 		<img src="images/mithunlogo.jpg" alt="" width="100">
 	</span>
 	<span style="font-weight: bold;">
-		bayyani indira , 
-		hyderabad, LB nagar,
+		Babu software solutions , 
+		hyderabad, ,
 		india,
 		+91-8919085185,
 		dasarimbabur@gmail.com
@@ -30,8 +30,11 @@
 	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
 <hr>
 <hr>
-<p align=center>bayyani indira  - Consultant,Training, Development Center.</p>
-<p align=center><small>Copyrights 2019 by <a href="http://bayyani indira.com/">bayyani indira</a> </small></p>
+<p align=center><small>Copyrights 2019 by <a href="http://.com/">Babu software solutions </a> </small></p>
+<p align=center>- Consultant,Training, Development Center.</p>
+<p align=center><small>Copyrights 2019 by <a href="http://.com/">Babu software solutions </a> </small></p>
+<p align=center><small>Copyrights 2019 by <a href="http://.com/">Babu software solutions </a> </small></p>
+<p align=center><small>Copyrights 2019 by <a href="http://.com/"></a> </small></p>
 
 </body>
 </html>
