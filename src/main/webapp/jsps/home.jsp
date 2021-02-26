@@ -23,7 +23,7 @@
 		+91-8919085185,
 		dasarimbabur@gmail.com
 		<br>
-		<a href="mailto:dasarimbabu@gmail.com">Mail to bayyani indira </a>
+		<a href="mailto:dasarimbabu@gmail.com">Mail to dasarimbabur@gmail.com </a>
 	</span>
 </div>
 <hr>
